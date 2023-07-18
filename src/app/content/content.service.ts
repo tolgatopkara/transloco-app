@@ -23,14 +23,6 @@ export class ContentService {
       title: 'Number',
       description: 'One, Two, Three'
     },
-    {
-      title: 'Country',
-      description: 'Turkey, Japan, China'
-    },
-    {
-      title: 'Home Appliance',
-      description: 'Television, Refrigerator, Washing Machine'
-    },
 
 
   ]

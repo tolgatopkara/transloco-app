@@ -1,4 +1,14 @@
 {
-  "title": "Animales",
-  "description": "León, Caballo, Panda"
+  "title": {
+    "animal": "Animales",
+    "fruit": "Frutas",
+    "color": "Colores",
+    "number": "Números"
+  },
+  "description": {
+    "animal": "León, Caballo, Panda",
+    "fruit": "Manzana, Naranja, Plátano",
+    "color": "Rojo, Verde, Azul",
+    "number": "Uno, Dos, Tres"
+  }
 }

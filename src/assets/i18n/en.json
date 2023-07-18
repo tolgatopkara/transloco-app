@@ -1,4 +1,14 @@
 {
-  "title": "Animal",
-  "description": "Lion, Horse, Panda"
+  "title": {
+    "animal": "Animals",
+    "fruit": "Fruits",
+    "color": "Colors",
+    "number": "Numbers"
+  },
+  "description": {
+    "animal": "Lion, Horse, Panda",
+    "fruit": "Apple, Orange, Banana",
+    "color": "Red, Green, Blue",
+    "number": "One, Two, Three"
+  }
 }
